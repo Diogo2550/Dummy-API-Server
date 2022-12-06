@@ -1,0 +1,50 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Teste 01",
+			"username": "usuario001",
+			"email": "teste001@teste.com",
+			"skills": []
+		},
+		{
+			"id": 2,
+			"name": "Teste 02",
+			"username": "usuario002",
+			"email": "teste002@teste.com",,
+			"skills": [
+				"programming"
+			]
+		},
+		{
+			"id": 3,
+			"name": "Teste 03",
+			"username": "usuario003",
+			"email": "teste003@teste.com",
+			"skills": []
+		},
+		{
+			"id": 4,
+			"name": "Teste 04",
+			"username": "usuario004",
+			"email": "teste004@teste.com",
+			"skills": [
+				"thinking"
+			]
+		},
+		{
+			"id": 5,
+			"name": "Teste 05",
+			"username": "usuario005",
+			"email": "teste005@teste.com",
+			"skills": []
+		}
+	],
+	"posts": [
+		{
+			"id": 1,
+			"user_id": 1,
+			"text": "Apenas um post qualquer"			
+		}
+	]
+}
